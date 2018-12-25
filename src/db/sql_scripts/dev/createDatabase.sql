@@ -1,0 +1,3 @@
+CREATE DATABASE denasaDB;
+
+USE denasaDB;
