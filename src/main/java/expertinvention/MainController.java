@@ -1,4 +1,4 @@
-package com.denasa.expertinvention.expertinvention;
+package expertinvention;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
