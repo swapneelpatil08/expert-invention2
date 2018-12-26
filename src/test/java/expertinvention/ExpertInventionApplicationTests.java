@@ -1,4 +1,4 @@
-package com.denasa.expertinvention.expertinvention;
+package expertinvention;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -9,9 +9,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class ExpertInventionApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
+    @Test
+    public void contextLoads() {
+    }
 
 }
-
